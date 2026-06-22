@@ -1,0 +1,10 @@
+{
+  "beginner": {
+    "title": "Для начинающих",
+    "lessons": [
+      {"id": 1, "name": "Подготовка волос", "type": "text", "content": "Моем, расчесываем, зонируем...", "image": "images/prep.jpg"},
+      {"id": 2, "name": "Как плести классическую косичку", "type": "video", "url": "https://youtu.be/..."}
+    ]
+  },
+  "advanced": { ... }
+}
